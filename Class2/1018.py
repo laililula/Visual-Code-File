@@ -4,7 +4,7 @@ chess = [input().strip() for _ in range(N)]
 pattern1 = ['WBWBWBWB', 'BWBWBWBW'] * 4
 pattern2 = ['BWBWBWBW', 'WBWBWBWB'] * 4
 
-result = 64 
+result = 64  
 
 for i in range(N - 7):
     for j in range(M - 7):
