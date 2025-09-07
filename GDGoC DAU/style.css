@@ -1,0 +1,11 @@
+body {
+    font-family: "Pretendard", sans-serif;
+    text-align: center;
+    background: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 50px;
+}
+h1 {
+    color: #4285F4; /* 구글 블루 */
+}
